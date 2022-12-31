@@ -22,5 +22,3 @@ import App from "./12_setState详细使用/App";
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(<App rootData={{ name: "pak", age: 20 }} />);
-
-console.log("-----");
