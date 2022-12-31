@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.nav-var {
+  display: flex;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+}
+
+.nav-var .left {
+  width: 100px;
+  background-color: antiquewhite;
+}
+
+.nav-var .center {
+  flex: 1;
+  background-color: aquamarine;
+}
+
+.nav-var .right {
+  width: 100px;
+  background-color: blanchedalmond;
+}
